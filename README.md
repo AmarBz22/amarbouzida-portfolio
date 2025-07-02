@@ -1,12 +1,26 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 Amar Bouzida - Developer Portfolio
 
-Currently, two official plugins are available:
+This is my personal portfolio website built with [React](https://reactjs.org/) and styled using [Tailwind CSS](https://tailwindcss.com/). It includes information about me, my projects, skills, and a contact form powered by EmailJS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Interactive and responsive UI
+- Scroll-based animations
+- Contact form with EmailJS integration
+- Clean modern design using Tailwind
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- EmailJS
+
+## 📫 Contact
+
+Feel free to reach out via the contact form or at **amarbouzida62@email.com**
+
+---
+
+>>>>>>> 9535227171e5d0d2e3eb0e8136cecb72f93023d1
